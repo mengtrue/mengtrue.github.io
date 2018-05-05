@@ -1,9 +1,3 @@
----
-title: Landscape
-date: 2018/5/5
-layout: false
----
-
 # Landscape
 
 A brand new default theme for [Hexo].
